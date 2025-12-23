@@ -1,4 +1,4 @@
-# SPT_fidelity_2024
+# SPT_fidelity
 Code supporting the FidlTrack SPT fidelity manuscript
 
 The data associated to these codes need to be present in the following directories located in this folder (they can be symlinks):
