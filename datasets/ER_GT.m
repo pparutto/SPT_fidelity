@@ -1,0 +1,32 @@
+function res = ER_GT(base_dir, reps)
+    res = {simu_dens_ER_BSA_001_time(base_dir, reps); simu_dens_ER_BSA_001_time2(base_dir, reps); simu_dens_ER_BSA_001_time3(base_dir, reps);
+          simu_dens_ER_BSA_001_time4(base_dir, reps); simu_dens_ER_BSA_001_time5(base_dir, reps); simu_dens_ER_BSA_001_time6(base_dir, reps);
+          simu_dens_ER_BSA_001_time7(base_dir, reps); simu_dens_ER_BSA_001_time8(base_dir, reps); simu_dens_ER_BSA_001_time9(base_dir, reps);
+          simu_dens_ER_BSA_001_time10(base_dir, reps); simu_dens_ER_BSA_001_time11(base_dir, reps); simu_dens_ER_BSA_001_time12(base_dir, reps);
+          simu_dens_ER_BSA_001_time13(base_dir, reps);
+          simu_dens_ER_OA_002_time(base_dir, reps); simu_dens_ER_OA_002_time2(base_dir, reps); simu_dens_ER_OA_002_time3(base_dir, reps);
+          simu_dens_ER_OA_002_time4(base_dir, reps); simu_dens_ER_OA_002_time5(base_dir, reps); simu_dens_ER_OA_002_time6(base_dir, reps);
+          simu_dens_ER_OA_002_time7(base_dir, reps); simu_dens_ER_OA_002_time8(base_dir, reps); simu_dens_ER_OA_002_time9(base_dir, reps);
+          simu_dens_ER_OA_002_time10(base_dir, reps); simu_dens_ER_OA_002_time11(base_dir, reps); simu_dens_ER_OA_002_time12(base_dir, reps);
+          simu_dens_ER_OA_002_time13(base_dir, reps);
+          simu_dens_ER_BSA_004_time(base_dir, reps); simu_dens_ER_BSA_004_time2(base_dir, reps); simu_dens_ER_BSA_004_time3(base_dir, reps);
+          simu_dens_ER_BSA_004_time4(base_dir, reps); simu_dens_ER_BSA_004_time5(base_dir, reps); simu_dens_ER_BSA_004_time6(base_dir, reps);
+          simu_dens_ER_BSA_004_time7(base_dir, reps); simu_dens_ER_BSA_004_time8(base_dir, reps); simu_dens_ER_BSA_004_time9(base_dir, reps);
+          simu_dens_ER_BSA_004_time10(base_dir, reps); simu_dens_ER_BSA_004_time11(base_dir, reps); simu_dens_ER_BSA_004_time12(base_dir, reps);
+          simu_dens_ER_BSA_004_time13(base_dir, reps);
+          simu_dens_ER_BSA_005_time(base_dir, reps); simu_dens_ER_BSA_005_time2(base_dir, reps); simu_dens_ER_BSA_005_time3(base_dir, reps);
+          simu_dens_ER_BSA_005_time4(base_dir, reps); simu_dens_ER_BSA_005_time5(base_dir, reps); simu_dens_ER_BSA_005_time6(base_dir, reps);
+          simu_dens_ER_BSA_005_time7(base_dir, reps); simu_dens_ER_BSA_005_time8(base_dir, reps); simu_dens_ER_BSA_005_time9(base_dir, reps);
+          simu_dens_ER_BSA_005_time10(base_dir, reps); simu_dens_ER_BSA_005_time11(base_dir, reps); simu_dens_ER_BSA_005_time12(base_dir, reps);
+          simu_dens_ER_BSA_005_time13(base_dir, reps);
+          simu_dens_ER_BSA_008_time(base_dir, reps); simu_dens_ER_BSA_008_time2(base_dir, reps); simu_dens_ER_BSA_008_time3(base_dir, reps);
+          simu_dens_ER_BSA_008_time4(base_dir, reps); simu_dens_ER_BSA_008_time5(base_dir, reps); simu_dens_ER_BSA_008_time6(base_dir, reps);
+          simu_dens_ER_BSA_008_time7(base_dir, reps); simu_dens_ER_BSA_008_time8(base_dir, reps); simu_dens_ER_BSA_008_time9(base_dir, reps);
+          simu_dens_ER_BSA_008_time10(base_dir, reps); simu_dens_ER_BSA_008_time11(base_dir, reps); simu_dens_ER_BSA_008_time12(base_dir, reps);
+          simu_dens_ER_BSA_008_time13(base_dir, reps);
+          simu_dens_ER_BSA_009_time(base_dir, reps); simu_dens_ER_BSA_009_time2(base_dir, reps); simu_dens_ER_BSA_009_time3(base_dir, reps);
+          simu_dens_ER_BSA_009_time4(base_dir, reps); simu_dens_ER_BSA_009_time5(base_dir, reps); simu_dens_ER_BSA_009_time6(base_dir, reps);
+          simu_dens_ER_BSA_009_time7(base_dir, reps); simu_dens_ER_BSA_009_time8(base_dir, reps); simu_dens_ER_BSA_009_time9(base_dir, reps);
+          simu_dens_ER_BSA_009_time10(base_dir, reps); simu_dens_ER_BSA_009_time11(base_dir, reps); simu_dens_ER_BSA_009_time12(base_dir, reps);
+          simu_dens_ER_BSA_009_time13(base_dir, reps)};
+end
